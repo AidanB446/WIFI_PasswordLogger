@@ -3,6 +3,8 @@
 I am strongly against any malacious intent that someone would use this program for. It is for educational purposes only.
 I am not responsible for anyones use of this.
 
+This code is relatively simple and may be good for begineers to analyze or improve on. 
+
 The concept or theory for this is, too run this on a computer that is connected to a password protected wifi
 network, in order to pull the password of that network. Logs to txt file. 
 
