@@ -19,4 +19,4 @@ hypothetical situation : pentesting a company, maybe in the future you need to g
 
 You could compile to executable, and spoof as a common file, then figure out a way too run on company computer. Maybe convincing someone to let you quickly borrow their computer, or sneaking into a office, and running it. Whatever it may be.
 
-AGAIN: all of these are examples. Dont do stupid illegal stuff. I am not responsible for anyones actions.
+AGAIN: all of these are examples. Dont do illegal stuff. I am not responsible for anyones actions.
