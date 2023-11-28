@@ -1,16 +1,17 @@
 # WIFI_PasswordLogger
 
-I am strongly against any malacious intent that someone would use this program for. It is for educational purposes only.
-I am not responsible for anyones use of this.
+I am strongly against any malacious intent that someone would use this for. It is for educational purposes only.
+I am not responsible for any wrong use of this. 
 
-This code is relatively simple and may be good for begineers to analyze or improve on. 
+This code is relatively simple and may be good for begineers to analyze, or rewrite. 
 
 The concept or theory for this is, too run this on a computer that is connected to a password protected wifi
-network, in order to pull the password of that network. Logs to txt file. 
+network, in order to pull the password of that network. Logs to txt file, but you can rewrite it to use a webhook, email, or
+whatever you're feeling. 
 
 Social engineering could be used IN THEORY, maybe someone COULD spoof this as a pdf file or other type of common file, and convince someone to open it that is on a password protected wifi network.
 
-For best desired outcome, you can change the filpath for the 'f' variable at the end of the script. Or get rid of the filewriting all together and have some other way to get data back to you. Webhook, email etc. 
+For best desired outcome, you can change the filepath for the 'f' variable at the end of the script. Or get rid of the filewriting all together and have some other way to get data back to you. Webhook, email etc. 
 
 Again this is in no way for malicous intent. Just educational purposes. 
 
