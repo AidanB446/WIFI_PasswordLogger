@@ -1,11 +1,11 @@
 # importing subprocess
 
-# This only works for windows, I haven't (and probably wont) write it for macOS or Linux.
+# This only works for windows, I haven't (and probably will not) write it for macOS or Linux.
 
 import subprocess
 
 def getInterfaces() :
-    names = [] # this is the object well return
+    names = [] # this is the object we will return
     
     meta_data = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles'], shell=True) # command to get the interface names
 
